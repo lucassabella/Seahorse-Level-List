@@ -13,6 +13,12 @@
             "link": "_blank",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "AxolotMix",
+            "link": "_blank",
+            "percent": 81,
+            "hz": 60
         }
     ]
 }

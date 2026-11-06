@@ -8,5 +8,11 @@
     "percentToQualify": "50",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "AxolotMix",
+            "link": "_blank",
+            "percent": 53,
+            "hz": 60
+        }
     ]
 }
