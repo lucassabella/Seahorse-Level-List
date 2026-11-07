@@ -8,5 +8,11 @@
     "percentToQualify": 50,
     "password": "Free to copy",
     "records": [
+        {
+            "user": "Macucasss",
+            "link": "https://www.youtube.com/watch?v=EFMRYZ6WsXw",
+            "percent": 100,
+            "hz": 75
+        }
     ]
 }
